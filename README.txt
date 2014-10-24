@@ -1,1 +1,2 @@
-This is my readme.
+My project contains
+Using favorite text doc!
